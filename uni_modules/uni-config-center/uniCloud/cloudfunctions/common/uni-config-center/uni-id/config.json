@@ -1,0 +1,44 @@
+{
+	"passwordSecret": "hbzhendehenhaoYong-gb",
+	"tokenSecret": "wozhendeailiuluLOVE-you",
+	"tokenExpiresIn": 259200000,
+	"tokenExpiresThreshold": 600,
+	"passwordErrorLimit": 5,
+	"bindTokenToDevice": true,
+	"passwordErrorRetryTime": 3600,
+	"autoSetInviteCode": true,
+	"forceInviteCode": false,
+	"removePermissionAndRoleFromToken": false,
+	"app-plus": {
+		"oauth": {
+			"weixin": {
+				"appid": "wx9bef16630ecfb2ed",
+				"appsecret": "06c959f0ea4a17cf5250dc0e445fdbfa"
+			}
+		}
+	},
+	"mp-weixin": {
+		"oauth": {
+			"weixin": {
+				"appid": "wxe0096ff732d4aafb",
+				"appsecret": "7e7370aac986148d7cb6af0d0f76799b"
+			}
+		}
+	},
+	"mp-alipay": {
+		"oauth": {
+			"alipay": {
+				"appid": "2021002152647124",
+				"privateKey": "MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/Xxz0emj3JZtS6JxjYbrYskr1pR2JQ5ySolDBFJQqe4n7yaWLQK3111iadPh6kbY3vfyJDBudaqrglrpOvkmZNna4dUHf/gAHCKhbCV78wpdhzhXbQAQPfL9M98Z45YU8GsLTERk6AqRd4eYssyZwDyU0FhalhRRraKJyptPSQaytDTDXiIs/RItTRB2dUoWHte/BVAhTqEGAmgITlPH7FtX6H7T3iIT5Cn+j4wPZGK4Ke7uTfbzPyvLC30H0JMzzzo3EY2y6myIFmJZ/A1aTrgI3uir9PL/V7FJG5GOf0SSt4b27Ootn+lyUj4FFDnzVNd4ABzVWmHS5nGVbDWL7AgMBAAECggEATbbcVVPYiHUXLIYV7C3l6NYOps7UvcddMBcGYEJxIQdmM3/h4Dj17B31d1QFDBFcRCq9ARKPrE+C8Q2EvzF7ReLeN242wDWv4Stc4wtdLZwASdGdAppui7OHJESCrtnWT2A2uev5qJsmEJIKHSDrfRpJa2uE6tauQigNwC2LW5hnEm4xYQfy9HS8BZnfKFzS1LUBFmu6U156TmrNrQHfmWVxO0GUWmAjiplOA2f5mGQ6ME45QtnM/5BRMMOs5fCS+2ogWPpqiUp74cyv8GLYTCZG4MQmmj7i8awvnDO4vMKMhGIITfM2pWTmaDjK0O/XRNrKmFiE/CcIUhT0zRbP4QKBgQD3yPS54QUPYooVbWb1Ibo1RUHJ+XMUEuFsy4jmH9pvfOY0aAmxtRqenhe6YaAJhzJJl3/D7RC/fyJ7COZ2vlqDOaUxM9uga1OJ1AIKHc4tZs2wtPMGMGnPrDW6rCs/tG8GQ8IXjvQ3wnYyTnaXlvqOxnRdhZpMOik9irUMAG1TaQKBgQDFt1rlNEE6cvrnOcfzWF7Ro73odKDJyMMo2H4XbtY50Z15QqT+RvvlcakGgdzQfjTvfwrhiQoC8E0yBEyUGNKlzOOCvcpFIIpvbPhlM2nnpCCGYtU7ZqL8UOPipegrDVhfQcHMsAVpec/ZbMrpeJIXOGLlCyRjyQmdeuuD44bKwwKBgQDWXbqrXSs9hiikJQPfqxAnqgUisXaHtVXlA6kqPgCCV3HpgOByJ5YiB+/LRU5pL9enpzPX0y6cHWc9PhP0QvaXdLWffZfSj0e0hABHtEV9LeVhrQpbHmNMUVYia3T3JiivKMuwCfLqkogjOZKLzwhxoOtnRYCZ1e972JaNDYmHkQKBgQCBCAIn5wxSqssXr9vP8fIfem7rj4GHbp/+vhq8DDd+kE/m3Rl0YLrvqFeYyZNj9ZlyW0Ssn5SLCmw2ohuf4vtF/QrVPisNJglyYnlRAlaxN6mKSmHCXF8tr1Spi4CS6CiuMenaPV2q0jZVPOzHpUoiIUhZFgZvoLnHrnqZHhnPpQKBgQCcPxn1U651OppG43lKz3pNJj2w09CipVfWLaQwhDD2pi18nyADdEOp6ihGNGRCZAggOKZxSo5wp+e+s5K/IgpzyGi1mwgY9QYtodghuYE/pJGHiBUMGNGijtMMmNeZJFS8BAuasHKkuXNI9JXAZeASNfhoiKKbN+Qtn22iJROLrg=="
+			}
+		}
+	},
+	"service": {
+		"sms": {
+			"name": "米米汇",
+			"codeExpiresIn": 300,
+			"smsKey": "0bb0dfaca8d26a245183c3cbd61bdac1",
+			"smsSecret": "0ae43361f6b14c4dfcbde2534febbdc4"
+		}
+	}
+}

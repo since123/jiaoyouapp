@@ -1,0 +1,95 @@
+{
+	"name": "盲盒游戏，社交，交友",
+	"version": "1.0.1",
+	"description": "最新很火的盲盒小游戏",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": "",
+	"keywords": [
+		"uniclond",
+		"盲盒",
+		"分享",
+		"支付"
+	],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": ""
+	},
+	"homepage": "",
+	"dependencies": {
+		"jweixin-module": "^1.6.0",
+		"vue-i18n": "^8.20.0"
+	},
+	"id": "guobin-manghe",
+	"uni_modules": {
+		"dependencies": [],
+		"encrypt": [],
+		"platforms": {
+			"cloud": {
+				"tcb": "y",
+				"aliyun": "y"
+			},
+			"client": {
+				"App": {
+					"app-vue": "y",
+					"app-nvue": "n"
+				},
+				"H5-mobile": {
+					"Safari": "y",
+					"Android Browser": "y",
+					"微信浏览器(Android)": "y",
+					"QQ浏览器(Android)": "y"
+				},
+				"H5-pc": {
+					"Chrome": "y",
+					"IE": "y",
+					"Edge": "y",
+					"Firefox": "y",
+					"Safari": "y"
+				},
+				"小程序": {
+					"微信": "y",
+					"阿里": "y",
+					"百度": "y",
+					"字节跳动": "y",
+					"QQ": "y"
+				},
+				"快应用": {
+					"华为": "y",
+					"联盟": "y"
+				},
+				"Vue": {
+					"vue2": "y",
+					"vue3": "u"
+				}
+			}
+		}
+	},
+	"displayName": "盲盒游戏，社交，交友",
+	"dcloudext": {
+		"category": [
+			"uniCloud",
+			"云端一体项目模板"
+		],
+		"sale": {
+			"regular": {
+				"price": "0.00"
+			},
+			"sourcecode": {
+				"price": "0.00"
+			}
+		},
+		"contact": {
+			"qq": ""
+		},
+		"declaration": {
+			"ads": "无",
+			"data": "无",
+			"permissions": "无"
+		},
+		"npmurl": ""
+	}
+}
